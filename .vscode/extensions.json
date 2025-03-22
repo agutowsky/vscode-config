@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        // Formatting
+        "chouzz.vscode-better-align",
+        // Styling
+        "Catppuccin.catppuccin-vsc",
+        "Catppuccin.catppuccin-vsc-icons",
+        // Utility
+        "ritwickdey.LiveServer"
+    ]
+}

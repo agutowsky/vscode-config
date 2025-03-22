@@ -1,0 +1,50 @@
+{
+    // Breadcrumbs
+    "breadcrumbs.enabled": true,
+    "breadcrumbs.filePath": "on",
+    "breadcrumbs.icons": false,
+    "breadcrumbs.symbolPath": "off",
+    // Chat
+    "chat.commandCenter.enabled": false,
+    // Editor
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "'FiraMono Nerd Font', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 21,
+    "editor.lineNumbers": "on",
+    "editor.minimap.enabled": false,
+    "editor.occurrencesHighlight": "singleFile",
+    "editor.renderLineHighlight": "all",
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [120],
+    "editor.scrollbar.horizontal": "auto",
+    "editor.scrollbar.vertical": "visible",
+    "editor.scrollbar.verticalScrollbarSize": 22,
+    "editor.smoothScrolling": true,
+    "editor.stickyScroll.enabled": false,
+    // Explorer
+    "explorer.compactFolders": false,
+    // Files 
+    "files.autoSave": "off",
+    "files.eol": "auto",
+    "files.insertFinalNewline": true,
+    // Terminal
+    "terminal.integrated.fontSize": 14,
+    // Window
+    "window.customTitleBarVisibility": "auto",
+    "window.zoomLevel": 1,
+    // Workbench
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.list.smoothScrolling": true,
+    "workbench.navigationControl.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.tips.enabled": false,
+    "workbench.tree.indent": 6,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.view.alwaysShowHeaderActions": true
+}
