@@ -43,7 +43,7 @@
     "workbench.navigationControl.enabled": false,
     "workbench.layoutControl.enabled": false,
     "workbench.tips.enabled": false,
-    "workbench.tree.indent": 6,
+    "workbench.tree.indent": 14,
     "workbench.tree.renderIndentGuides": "always",
     "workbench.tree.enableStickyScroll": false,
     "workbench.view.alwaysShowHeaderActions": true
